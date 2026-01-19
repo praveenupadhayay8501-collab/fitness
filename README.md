@@ -24,15 +24,13 @@ This project is created for **learning frontend web development** and practicing
 - CSS3
 
 ---
-
+Repo
+https://github.com/praveenupadhayay8501-collab/fitness
 
 ---
 
-## 🌐 Live Website
-https://USERNAME.github.io/REPOSITORY-NAME/
-
-(Replace USERNAME and REPOSITORY-NAME with your GitHub details)
-
+## 🌐  DEMO OF THE WEBSITE
+https://praveenupadhayay8501-collab.github.io/fitness/
 ---
 
 ## 🎯 Purpose of the Project
@@ -56,7 +54,10 @@ https://USERNAME.github.io/REPOSITORY-NAME/
 **Praveen Upadhyay**  
 Student | Web Development Learner  
 
+TIME SPEND
+11 hours approx
 ---
 
 ## 📜 License
 This project is open-source and free to use for learning and educational purposes.
+
